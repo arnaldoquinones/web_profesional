@@ -129,6 +129,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+web_prof/
 
 # Spyder project settings
 .spyderproject
