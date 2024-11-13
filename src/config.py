@@ -2,10 +2,6 @@
 # - WEB PROFESIONAL -
 # -------------------
 
-# -----  MAIN  ------
-
+# -----  CONFIG  ----
 
 # Librerias empleadas.
-
-import reflex as rf
-
