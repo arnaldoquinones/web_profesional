@@ -1,17 +1,5 @@
 import reflex as rx
 
-def index():
-    return rx.box(
-        children=[],
-        style={
-            "minHeight": "100vh",
-            "display": "flex",
-            "alignItems": "center",
-            "justifyContent": "center",
-            "background": "linear-gradient(blue, black)"
-        },
-    )
-
 
 class State(rx.State):
     count: int = 0
